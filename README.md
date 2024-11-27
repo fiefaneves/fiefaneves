@@ -31,7 +31,7 @@ Hi, I'm [Fernanda](https://github.com/fiefaneves) 👨‍💻, Computer Science 
 
 ### 📌 Pinned Repositories
 [**Data Structures and Algorithms 🧑‍💻**](https://github.com/fiefaneves/algorithm)  
-This repository is a dedicated space for learning, practicing, and mastering **Data Structures** and **Algorithms**. It contains:
+*This repository is a dedicated space for learning, practicing, and mastering **Data Structures** and **Algorithms**. It contains:*
 
 - 📚 **Comprehensive Notes**: Detailed explanations and insights into various data structures and algorithms.  
 - 🧩 **Problem-Solving**: Solutions to a wide range of algorithmic problems from platforms like LeetCode, HackerRank, and Codeforces.  
@@ -41,7 +41,7 @@ This repository is a dedicated space for learning, practicing, and mastering **D
 Feel free to **fork**, **contribute**, or **star ⭐** this project if you find it helpful!
 
 [**Animal Adoption Platform 🐾**](https://github.com/fiefaneves/abrigo-de-animais)  
-Welcome to the **Animal Adoption Platform**, a web application built with **Django** to facilitate animal adoptions. This project aims to connect people with pets looking for a loving home. ❤️  
+*Welcome to the **Animal Adoption Platform**, a web application built with **Django** to facilitate animal adoptions. This project aims to connect people with pets looking for a loving home. ❤️*  
 
 ### Features 🛠️
 
@@ -80,8 +80,7 @@ Here are some amazing repositories from other developers that I had the privileg
 
 ### 💻 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiefaneves&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiefaneves&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiefaneves&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiefaneves&layout=compact&theme=radical)
 
 ---
 
