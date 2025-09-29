@@ -32,12 +32,19 @@ Hi, I'm [Fernanda](https://github.com/fiefaneves) 👨‍💻, Computer Science 
 
 ### 📊 Most Used Languages
 
-| Language        | Proficiency | 
-|-----------------|-------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)    | ⭐⭐⭐⭐⭐        |
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)    | ⭐⭐⭐⭐⭐        |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)          | ⭐⭐⭐⭐        |
-| ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)            | ⭐⭐⭐⭐         |
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
