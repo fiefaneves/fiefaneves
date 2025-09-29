@@ -86,10 +86,4 @@ Here are some amazing repositories from other developers that I had the privileg
 
 ---
 
-### 💻 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiefaneves&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiefaneves&layout=compact&theme=radical)
-
----
-
 Thanks for stopping by! Let's connect and build something amazing together 🚀.
